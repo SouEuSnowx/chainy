@@ -1,7 +1,7 @@
-# 🤖 CHAINY BOT — WHATSAPP
+# 🤖 YUJI ITADORI BOT V1 - WHATSAPP
 
 <div align="center">
-  <img src="https://files.catbox.moe/1p22ef.png" alt="Chainy Banner" width="100%">
+  <img src="https://files.catbox.moe/0fg6zp.jpg" alt="Chainy Banner" width="100%">
   <br><br>
   
   [![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-green.svg?style=for-the-badge&logo=node.js)](https://nodejs.org)
